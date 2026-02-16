@@ -7,15 +7,15 @@ Repository structure:
 
 AAFC_Bjuncea_Salinity/
 ├── data/
-│ ├── master_run_1.xlsx
-│ ├── master_run_2.xlsx
-│ └── master_agronomy.xlsx
+│   ├── master_run_1.xlsx
+│   ├── master_run_2.xlsx
+│   └── master_agronomy.xlsx
 ├── scripts/
-│ ├── 01_photosynq_analysis.R
-│ ├── 02_leafspec_analysis.R
-│ └── 03_composite_scores_and_sti.R
+│   ├── 01_photosynq_analysis.R
+│   ├── 02_leafspec_analysis.R
+│   └── 03_composite_scores_and_sti.R
 ├── outputs/
-│ └── (generated automatically when scripts are run)
+│   └── (generated automatically when scripts are run)
 └── AAFC_Bjuncea_Salinity.Rproj
 
 How to Reproduce Analyses
